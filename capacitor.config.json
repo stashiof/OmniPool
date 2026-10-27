@@ -1,0 +1,14 @@
+{
+  "appId": "com.omnipool.cloudhub",
+  "appName": "OmniPool",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  }
+}
